@@ -6,8 +6,4 @@ function Home() {
   );
 }
 
-function Teste() {
-  return "Formatacao correta";
-}
-
 export default Home;
